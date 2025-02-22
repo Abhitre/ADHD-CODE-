@@ -1,4 +1,4 @@
-1 .# ADHD-CODE-(Machine learning Part)
+ # 1 ADHD-CODE-(Machine learning Part)
 The dataset consists of EEG readings of children diagnosed with ADHD and a control group. The goal is to preprocess the data, train multiple classification models, and evaluate their performance.
 -Installation & Dependencies
 Ensure you have Python installed along with the following libraries:
