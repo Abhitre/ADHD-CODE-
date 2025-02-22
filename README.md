@@ -104,7 +104,8 @@ The combination of these techniques ensures that AI-driven ADHD prediction model
 
 
 
-# 3 .ADHD-CODE-Hybrid Model:1. Neural Network + Random Forest
+# 3 .ADHD-CODE-Hybrid Model Part
+Model:1. Neural Network + Random Forest
 To improve performance, we implement a hybrid model that combines a Neural Network (MLPClassifier()) with Random Forest using a Stacking Classifier (StackingClassifier()).
 The Neural Network (MLP) acts as a feature extractor, capturing complex patterns in the data, while Random Forest serves as the final decision-making layer. This combination leverages the strengths of deep learning and ensemble methods, balancing feature learning with interpretability.
 
